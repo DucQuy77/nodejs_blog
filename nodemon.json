@@ -1,0 +1,4 @@
+{
+    "watch": ["src"],
+    "ext": "js json scss hbs"
+}
